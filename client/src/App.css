@@ -1,0 +1,23 @@
+.footer{
+  background-color: #343a40;
+  
+
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background-color: #343a40;
+  color:#fff;
+}
+
+.navbar-dark {
+  background-color: #343a40;
+}
+
+.App {
+  font-family: Quicksand;
+}
+
+body {
+  height: 100vh ;
+}
